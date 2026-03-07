@@ -154,3 +154,6 @@ SortIt/
 ├── icon.png           # Icona per barra del titolo
 └── requirements.txt   # Dipendenze Python
 ```
+## Autore
+
+[@_michelecast_](https://instagram.com/_michelecast_)
